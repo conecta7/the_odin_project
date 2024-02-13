@@ -182,6 +182,8 @@ console.log("Hello world!")
 //     prompt("I don't know you. Try again?");
 // }
 
+// +prompt() converts the value from a string to a number
+
 
 
 
