@@ -83,3 +83,42 @@
 //     return a + b;
 //   };
   
+
+// EXERCISES 
+
+// function add7(number) {
+//   return number + 7;
+// }
+
+// let result = add7(10);
+// console.log(result);
+
+
+// function multiply(a,b) {
+//   return a * b;
+// }
+
+// let result = multiply(3,4)
+// console.log
+
+
+// function capitalize(string) {
+//   return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
+// }
+
+// let result1 = capitalize("hello");  
+// let result2 = capitalize("WORLD");   
+// let result3 = capitalize("MiXeD"); 
+
+// console.log(result1);
+// console.log(result2);
+// console.log(result3);
+
+
+
+// function lastLetter(string) {
+//   return string.slice(-1);
+// }
+
+// let result = lastLetter("German");
+// console.log(result)
